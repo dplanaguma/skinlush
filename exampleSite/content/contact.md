@@ -1,25 +1,25 @@
 ---
-title: "Let's, Talk About You"
-description: "this is meta-description"
+title: "Contáctanos"
+description: "Ponte en contacto con Aterrizaje.com para resolver tus dudas sobre programas de fidelización de viajeros, promociones de aerolíneas o cualquier consulta relacionada con viajes."
 layout: "contact"
 draft: false
 
-message: "Let's, Talk About You"
-button_text: "Send Now"
+message: "¡Hablemos sobre tu viaje!"
+button_text: "Enviar Ahora"
 
-instruction_a: "Send Us A"
-instruction_b: " message"
+instruction_a: "Envíanos un"
+instruction_b: "mensaje"
 
-full_name_title: "Full name"
-full_name_placeholder: "Thomas Milano"
+full_name_title: "Nombre Completo"
+full_name_placeholder: "Juan Pérez"
 
-email_title: "Email Address"
-email_placeholder: "example@email.com"
+email_title: "Correo Electrónico"
+email_placeholder: "ejemplo@email.com"
 
-subject_title: "Subject"
-subject_placeholder: "Blog advertisement"
+subject_title: "Asunto"
+subject_placeholder: "Consulta sobre promociones de aerolíneas"
 
-content_title: "Your Message Here"
-content_placeholder: "Hello I’m Mr ‘x’ from.............."
+content_title: "Tu mensaje aquí"
+content_placeholder: "Hola, soy Juan Pérez y tengo algunas preguntas sobre los programas de fidelización..."
 
 ---
