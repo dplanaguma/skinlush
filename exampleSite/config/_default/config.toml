@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://aterrizaje.com/"
-title = "Aterrizaje | Guía de Programas de Fidelización de Viajeros"
+baseURL = "https://demo.statichunt.com/geeky-hugo/"
+title = "Geeky | Hugo Personal Blog Template"
 theme = "geeky-hugo"
-languageName = "Español"
-languageCode = "es"
+languageName = "En"
+languageCode = "en-us"
 # post pagination
 pagination.pagerSize = "6"
 # post excerpt
@@ -12,7 +12,10 @@ summaryLength = "20"
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 
 # disable language
-disableLanguages = ["fr", "en"]  # Desactiva otros idiomas
+disableLanguages = ["fr"] # example: ["fr"] for disable french language
+
+[services.disqus]
+shortname = 'themefisher-template' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 
 ############################# Modules ##############################
 [module]
@@ -73,4 +76,4 @@ rel = "manifest"
 
 ############################ exclude from sitemap  ###########################
 [params]
-taxonomiesExcludedFromSitemap = ["tags", "categories", "authors"]
+taxonomiesExcludedFromSitemap = ["tags", "categories"]
