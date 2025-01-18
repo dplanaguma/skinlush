@@ -16,6 +16,8 @@ education:
     content: "Publicamos diariamente las mejores ofertas en viajes baratos, vuelos de última hora, y descuentos en hoteles, para que nunca dejes escapar una oportunidad de ahorrar o acumular recompensas."
   - name: "Actualizaciones constantes"
     content: "Somos tu fuente confiable para las últimas tendencias de la industria del turismo, con información relevante sobre cambios en aerolíneas, alianzas globales y mejoras en los programas de fidelidad."
+  - name: "Guías personalizadas"
+    content: "Ofrecemos contenido adaptado a diferentes perfiles de viajeros, desde nómadas digitales hasta familias y cazadores de promociones, para que encuentres información que realmente te sirva."
 
 # experience
 experience:
