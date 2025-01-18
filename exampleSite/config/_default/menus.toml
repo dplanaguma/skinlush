@@ -1,56 +1,56 @@
-############# English navigation ##############
+############# Menú principal en español ##############
 
-# main menu
+# menú principal
 [[main]]
-name = "Home"
+name = "Inicio"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Quienes somos"
+url = "quienes-somos/"
 weight = 2
 
 [[main]]
-name = "Contact"
-url = "contact/"
+name = "Contacto"
+url = "contacta-con-nosotros/"
 weight = 3
 
 [[main]]
-name = "Pages"
+name = "Páginas"
 url = "#"
-weight = 3
+weight = 4
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Tags"
+  parent = "Páginas"
+  name = "Etiquetas"
   url = "tags/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
-  name = "Categories"
+  parent = "Páginas"
+  name = "Categorías"
   url = "categories/"
   weight = 2
 
-# footer menu
+# menú del pie de página
 [[footer]]
-name = "Home"
+name = "Inicio"
 url = "/"
 weight = 1
 
 [[footer]]
-name = "About"
-url = "about/"
+name = "Contacto"
+url = "contacta-con-nosotros/"
 weight = 2
 
 [[footer]]
-name = "Contact"
-url = "contact/"
+name = "Contacto"
+url = "contacta-con-nosotros/"
 weight = 3
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Política de privacidad"
+url = "politica-de-privacidad/"
 weight = 4
