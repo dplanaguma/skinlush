@@ -1,5 +1,5 @@
 ---
-title: "About The Author"
+title: "Acerca de Aterrizaje.com"
 description: "this is meta-description"
 image: "images/author.png"
 layout: "about"
@@ -8,36 +8,39 @@ draft: false
 # education
 education:
   enable: true
-  title: "Formal Education"
+  title: "¿Qué te ofrecemos?"
   education_list:
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Northeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
+  - name: "Análisis exhaustivos"
+    content: "Te explicamos cómo funcionan los principales programas de lealtad de aerolíneas y cadenas hoteleras, desglosando estrategias prácticas para que logres el máximo rendimiento de tus puntos y millas."
+  - name: "Promociones exclusivas"
+    content: "Publicamos diariamente las mejores ofertas en viajes baratos, vuelos de última hora, y descuentos en hoteles, para que nunca dejes escapar una oportunidad de ahorrar o acumular recompensas."
+  - name: "Actualizaciones constantes"
+    content: "Somos tu fuente confiable para las últimas tendencias de la industria del turismo, con información relevante sobre cambios en aerolíneas, alianzas globales y mejoras en los programas de fidelidad."
 
 # experience
 experience:
   enable: true
-  title: "Work Experience"
+  title: "¿A quién ayudamos?"
   experience_list:
-  - "Best Writer Award"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best Book"
+  - "Viajeros de negocios"
+  - "Viajeros de ocio"
+  - "Expertos en fidelización"
+  - "Viajeros de lujo"
+  - "Aventureros frecuentes"
+  - "Familias viajeras"
+  - "Nómadas digitales"
+  - "Cazadores de promociones"
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
+En Aterrizaje.com queremos ser la brújula que guíe a los viajeros inteligentes en el fascinante y, a menudo, complicado mundo de los programas de fidelización de viajes, promociones de aerolíneas y hoteles, y las últimas noticias de viajes. 
 
+Te ayudaremos a transformar cada punto, milla o recompensa en una experiencia memorable, maximizando el valor de tus desplazamientos.
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+Nuestra misión es clara: empoderarte como viajero para que tomes decisiones informadas, ahorres dinero y obtengas más beneficios en cada vuelo, estancia o aventura que realices.
+
+Ya sea que estés planificando tu próximo viaje de negocios, unas vacaciones en familia, o explorando formas de aprovechar tus puntos acumulados, estamos aquí para ayudarte.
+
+En Aterrizaje.com, tu viaje no comienza en el aeropuerto, comienza aquí. Descubre cómo convertir cada vuelo, cada reserva de hotel y cada promoción en una oportunidad para ir más lejos.
+
+¡Súmate a nuestra comunidad de viajeros expertos y lleva tus recompensas al siguiente nivel!
