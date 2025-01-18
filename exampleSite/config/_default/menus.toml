@@ -8,12 +8,12 @@ weight = 1
 
 [[main]]
 name = "Quienes somos"
-url = "quienes-somos/"
+url = "about/"
 weight = 2
 
 [[main]]
 name = "Contacto"
-url = "contacta-con-nosotros/"
+url = "contact/"
 weight = 3
 
 [[main]]
@@ -41,16 +41,16 @@ url = "/"
 weight = 1
 
 [[footer]]
-name = "Contacto"
-url = "contacta-con-nosotros/"
+name = "Quienes somos"
+url = "about/"
 weight = 2
 
 [[footer]]
 name = "Contacto"
-url = "contacta-con-nosotros/"
+url = "contact/"
 weight = 3
 
 [[footer]]
 name = "Política de privacidad"
-url = "politica-de-privacidad/"
+url = "privacy-policy/"
 weight = 4
