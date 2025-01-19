@@ -1,6 +1,8 @@
 ##### Optimize default expiration time - BEGIN
 <IfModule mod_expires.c>
-  
+  # Set Content Security Policy
+  Header set Content-Security-Policy "script-src 'self' https://gc.zgo.at; connect-src 'self' https://aterrizaje.goatcounter.com/count;"
+
   ## Enable expiration control
   ExpiresActive On
 
@@ -124,4 +126,5 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 <FilesMatch "\.(json|xml)$">
   Header set Cache-Control "max-age=600, must-revalidate"
 </FilesMatch>
+
 

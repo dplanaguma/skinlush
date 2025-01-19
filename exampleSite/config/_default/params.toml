@@ -62,10 +62,10 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Bienvenido a **Aterrizaje**"
-title_small = "Descubre cómo maximizar tus puntos de viajero frecuente."
+title_small = ""
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = ""
+content = "Descubre cómo maximizar tus puntos de viajero frecuente."
 button_label = "Conoce más"
 button_link = "quienes-somos/"
 
