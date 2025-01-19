@@ -17,7 +17,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
 mobile = "+211234565523"
-email = "info@email.com"
+email = "contacto@aterrizaje.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
