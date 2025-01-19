@@ -1,12 +1,21 @@
 {{ define "main" }}
 
-<section class="section">
+<section class="section-404">
   <div class="container">
     <div class="row">
-      <div class="col-lg-10 mx-auto text-center">
-        <h1>{{ site.Params.error_404_text }}</h1>
-        <a href="{{site.BaseURL | relLangURL}}" class="btn btn-primary">{{ site.Params.error_404_button }}</a>
+      <div class="col-lg-8 mx-auto text-center">
+        <div class="error-message">
+          <h1 class="error-code">404</h1>
+          <h2 class="error-text">¡Ups! Parece que esta página no existe.</h2>
+          <p class="error-description">Lo sentimos, pero la página que buscas no se encuentra disponible. Puede ser que la URL esté mal escrita o que la página haya sido movida o eliminada.</p>
+          <div class="error-actions">
+            <a href="{{site.BaseURL | relLangURL}}" class="btn btn-primary">
+              <i class="fas fa-home"></i> Regresar al Inicio
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </section>
+
+{{ end }}
