@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "Contacto"
-url = "contact/"
+url = "contacto/"
 weight = 3
 
 [[main]]
@@ -47,7 +47,7 @@ weight = 2
 
 [[footer]]
 name = "Contacto"
-url = "contact/"
+url = "contacto/"
 weight = 3
 
 [[footer]]
