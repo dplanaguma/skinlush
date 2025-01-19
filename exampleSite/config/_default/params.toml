@@ -67,7 +67,7 @@ image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Descubre cómo maximizar tus puntos, millas y beneficios de viajero frecuente. Encuentra las mejores promociones sobre el mundo de los viajes."
 button_label = "Conoce más"
-button_link = "about/"
+button_link = "quienes-somos/"
 
 # Advertise
 [advertisement]
@@ -89,7 +89,7 @@ sidebar = ["about", "categories", "recent-post", "newsletter"]
 
 # Subscription
 [subscription]
-enable = false
+enable = true
 newsletter_title = "Newsletter"
 newsletter_invitation = "¡Únete a nuestra comunidad de viajeros expertos y recibe las mejores ofertas y consejos cada semana!"
 newsletter_placeholder = "Escribe tu email"
@@ -98,7 +98,7 @@ newsletter_reminder_b = "Política de Privacidad"
 newsletter_button = "Suscribirme"
 # mailchimp subsciption
 mailchimp_form_action = "https://mailchi.mp/5cb18b11495f/aterrizaje" # replace this url with yours
-mailchimp_form_name = "https://mailchi.mp/5cb18b11495f/aterrizaje" # replace this code with yours
+mailchimp_form_name = "5cb18b11495f" # replace this code with yours
 
 
 ############################# social site ########################
