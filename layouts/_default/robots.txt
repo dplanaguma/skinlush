@@ -1,1 +1,33 @@
+# Bloqueo general para todos los bots
 User-agent: *
+Disallow: /drafts/       # Bloquea la indexación de borradores
+Disallow: /private/      # Bloquea directorios privados
+Disallow: /404.html      # Bloquea la página de error 404
+Disallow: /tags/         # Bloquea la indexación de etiquetas (si no aportan valor al SEO)
+Disallow: /categories/   # Bloquea categorías (si no son necesarias para la indexación)
+Disallow: /search/       # Evita que se indexen resultados de búsqueda
+Disallow: /politica-de-privacidad/       # Evita que se indexe la politica de privacidad
+Disallow: /search/       # Evita que se indexen resultados de búsqueda
+Disallow: /*?*           # Bloquea URLs con parámetros
+
+# Permitir el acceso a recursos públicos
+Allow: /public/
+
+# Sitemap
+Sitemap: https://aterrizaje.com/sitemap.xml
+
+# Bloqueo específico para rastreadores problemáticos
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+# Reglas específicas para Googlebot
+User-agent: Googlebot
+Allow: /public/
+Disallow: /drafts/
+Disallow: /private/
