@@ -40,7 +40,7 @@ no_tags_found = "No se encontraron etiquetas"
 
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Descubre cómo optimizar tus puntos y millas, encuentra las mejores promociones de viajes y mantente informado sobre las últimas noticias del mundo de los viajes y programas de fidelización."
+about_widget_content = "Descubre cómo optimizar tus puntos y millas."
 # footer content
 footer_content = "Tu guía definitiva para maximizar el valor de tus programas de fidelización y encontrar las mejores ofertas en viajes."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
@@ -62,7 +62,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "¡Bienvenido a **Aterrizaje**!"
-title_small = "Tu guía de viajes inteligentes"
+title_small = ""
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Descubre cómo maximizar tus puntos, millas y beneficios de viajero frecuente. Encuentra las mejores promociones sobre el mundo de los viajes."
