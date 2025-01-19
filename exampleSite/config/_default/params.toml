@@ -61,11 +61,11 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "¡Bienvenido a **Aterrizaje.com**!"
+title_large = "¡Bienvenido a **Aterrizaje**!"
 title_small = "Tu guía de viajes inteligentes"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Descubre cómo maximizar tus puntos, millas y beneficios de viajero frecuente. Encuentra las mejores promociones y mantente informado sobre el mundo de los viajes."
+content = "Descubre cómo maximizar tus puntos, millas y beneficios de viajero frecuente. Encuentra las mejores promociones sobre el mundo de los viajes."
 button_label = "Conoce más"
 button_link = "about/"
 
