@@ -12,6 +12,7 @@
         {{ with .title_large }}<h1 class="banner-title mb-0">{{ . | markdownify }}</h1>{{ end }}
         {{ with .title_small }}<h2 class="h2 fw-normal mb-4">{{ . | markdownify}}</h2>{{ end }}
         <p class="mb-4 fs-6 text-light-600">{{.content | markdownify}}</p>
+        {{ if .button_label }}
         {{ end }}
       </div>
       {{ with .image }}
