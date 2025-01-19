@@ -24,6 +24,7 @@
         </div>
           
           <div class="col-12 optionalParent clear foot">
+            <a href="https://mailchi.mp/5cb18b11495f/aterrizaje" class="btn btn-primary w-100" target="_blank">Suscribirme</a>
             <button type="submit" name="subscribe" class="btn btn-primary w-100">{{ site.Params.subscription.newsletter_button }}</button>
             <div style="position: absolute; left: -5000px;" aria-hidden="true"class="clear foot" >
               <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1" id="mc-embedded-subscribe" value="Subscribe">
@@ -32,8 +33,7 @@
       </form>
         <div style="position: absolute; left: -5000px;" aria-hidden="true">
           <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
-        </div>
-        <a href="https://mailchi.mp/5cb18b11495f/aterrizaje" class="btn btn-primary w-100" target="_blank">Suscribirme</a>  
+        </div>  
       <p class="text-light-900 small content">{{ site.Params.subscription.newsletter_reminder_a }} <a href="{{`politica-de-privacidad`| relLangURL}}/" class="text-light-900"><strong>{{ site.Params.subscription.newsletter_reminder_b }}</strong></a></p>
     </div>
   </div>
