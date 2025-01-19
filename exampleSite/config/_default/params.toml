@@ -98,7 +98,7 @@ newsletter_reminder_b = "Política de Privacidad"
 newsletter_button = "Suscribirme"
 # mailchimp subsciption
 mailchimp_form_action = "https://mailchi.mp/5cb18b11495f/aterrizaje" # replace this url with yours
-mailchimp_form_name = "aterrizaje" # replace this code with yours
+mailchimp_form_name = "https://mailchi.mp/5cb18b11495f/aterrizaje" # replace this code with yours
 
 
 ############################# social site ########################
