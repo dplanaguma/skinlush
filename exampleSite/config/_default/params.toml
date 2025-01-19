@@ -15,8 +15,8 @@ description = "Tu guía definitiva sobre programas de fidelización de viajeros,
 author = "Aterrizaje.com"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
+# address = "9567 Turner Trace Apt. BC C3G8A4"
+# mobile = "+211234565523"
 email = "contacto@aterrizaje.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
