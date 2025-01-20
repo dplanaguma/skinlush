@@ -50,7 +50,7 @@ theme_copyright = true
 copyright = "Copyright © Aterrizaje.com"
 
 # 404
-error_404_text = "¡Página No Encontrada!"
+error_404_text = "Oops! Página no encontrada"
 error_404_button = "Volver al Inicio"
 
 # Preloader
