@@ -17,22 +17,14 @@ url = "contacto/"
 weight = 3
 
 [[main]]
-name = "Páginas"
-url = "#"
-weight = 3
-hasChildren = true
+name = "Categorias"
+url = "categories/"
+weight = 4
 
-  [[main]]
-  parent = "Páginas"
-  name = "Etiquetas"
-  url = "tags/"
-  weight = 1
-
-  [[main]]
-  parent = "Páginas"
-  name = "Categorías"
-  url = "categories/"
-  weight = 2
+[[main]]
+name = "Temas"
+url = "tags/"
+weight = 5
 
 # footer menu
 [[footer]]
