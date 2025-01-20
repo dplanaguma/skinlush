@@ -7,7 +7,7 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Acerca de"
+name = "Conocenos"
 url = "quienes-somos/"
 weight = 2
 
@@ -41,7 +41,7 @@ url = "/"
 weight = 1
 
 [[footer]]
-name = "Acerca de"
+name = "Conocenos"
 url = "quienes-somos/"
 weight = 2
 

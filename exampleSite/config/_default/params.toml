@@ -66,7 +66,7 @@ title_small = ""
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Descubre cómo maximizar tus puntos de viajero frecuente."
-button_label = "Conoce más"
+button_label = "Conocenos"
 button_link = "quienes-somos/"
 
 # Advertise
