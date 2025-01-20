@@ -104,7 +104,7 @@ mailchimp_form_name = "5cb18b11495f" # replace this code with yours
 ############################# social site ########################
 [[social]]
 title = "rss"
-icon = "fab fa-rss" # themify icon : https://themify.me/themify-icons
+icon = "fa-solid fa-rss" # themify icon : https://themify.me/themify-icons
 link = "https://aterrizaje.com/index.xml"
 
 [[social]]
