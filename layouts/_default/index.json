@@ -1,7 +1,7 @@
 {{ $.Scratch.Add "index" slice }}
 {{ range where site.RegularPages "Section" "blog" }}
 
-{{ $date:= time.Format ":date_short" .PublishDate }}
+{{ $date:= time.Format ":date_medium" .PublishDate }}
 
 {{ with .Params.image }}
 {{ if (fileExists (add `assets/` .)) }}
