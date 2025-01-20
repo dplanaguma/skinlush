@@ -2,8 +2,8 @@
 baseURL = "https://aterrizaje.com/"
 title = "Aterrizaje.com | Tu guía de programas de fidelización y viajes"
 theme = "geeky-hugo"
-languageName = "Es"
-languageCode = "es-es"
+languageName = "De"
+languageCode = "de-DE"
 # post pagination
 pagination.pagerSize = "6"
 # post excerpt
