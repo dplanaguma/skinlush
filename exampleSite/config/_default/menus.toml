@@ -2,55 +2,55 @@
 
 # main menu
 [[main]]
-name = "Inicio"
+name = "Home"
 url = ""
 weight = 1
 
 [[main]]
-name = "Acerca de"
-url = "quienes-somos/"
+name = "About"
+url = "about/"
 weight = 2
 
 [[main]]
-name = "Contacto"
-url = "contacto/"
+name = "Contact"
+url = "contact/"
 weight = 3
 
 [[main]]
-name = "Páginas"
+name = "Pages"
 url = "#"
 weight = 3
 hasChildren = true
 
   [[main]]
-  parent = "Páginas"
-  name = "Etiquetas"
+  parent = "Pages"
+  name = "Tags"
   url = "tags/"
   weight = 1
 
   [[main]]
-  parent = "Páginas"
-  name = "Categorías"
+  parent = "Pages"
+  name = "Categories"
   url = "categories/"
   weight = 2
 
 # footer menu
 [[footer]]
-name = "Inicio"
+name = "Home"
 url = "/"
 weight = 1
 
 [[footer]]
-name = "Acerca de"
-url = "quienes-somos/"
+name = "About"
+url = "about/"
 weight = 2
 
 [[footer]]
-name = "Contacto"
-url = "contacto/"
+name = "Contact"
+url = "contact/"
 weight = 3
 
 [[footer]]
-name = "Política de privacidad"
-url = "politica-de-privacidad/"
+name = "Privacy Policy"
+url = "privacy-policy/"
 weight = 4

@@ -49,7 +49,7 @@ function executeSearch(searchQuery) {
         populateResults(result);
       } else {
         document.querySelector("#search-results").innerHTML =
-          '<div class="text-center"><img class="img-fluid mb-5" src="https://user-images.githubusercontent.com/37659754/129837093-dcf35b93-982a-48d5-a9fd-4035dcefc4e0.png" width="300"><h3>¡Oops! No encontré nada...</h3></div>';
+          '<div class="text-center"><img class="img-fluid mb-5" src="https://user-images.githubusercontent.com/37659754/129837093-dcf35b93-982a-48d5-a9fd-4035dcefc4e0.png" width="300"><h3>No Search Found</h3></div>';
       }
     });
 }
