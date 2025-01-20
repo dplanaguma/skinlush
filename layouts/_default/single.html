@@ -1,5 +1,10 @@
 {{ define "main" }}
 
+<!-- spanish dates -->
+<time datetime="{{ .Date.Format "2006-01-02" }}">
+  {{ partial "date-spanish.html" . }}
+</time>
+
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq
 .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section
