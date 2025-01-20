@@ -7,10 +7,10 @@ var fuseOptions = {
   findAllMatches: false,
   minMatchCharLength: 3,
   location: 0,
-  threshold: 0.6,
+  threshold: 0.4,
   distance: 50,
   useExtendedSearch: false,
-  ignoreLocation: false,
+  ignoreLocation: true,
   ignoreFieldNorm: false,
   keys: [
     {
@@ -27,7 +27,7 @@ var fuseOptions = {
     },
     {
       name: "contents",
-      weight: 0.3,
+      weight: 2,
     },
   ],
 };
