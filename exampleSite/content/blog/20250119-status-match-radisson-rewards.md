@@ -4,7 +4,7 @@ description: "Ahora puedes conseguir estatus VIP en Radisson Rewards gratis por 
 image: "images/post/20250119_01.webp"
 date: 2025-01-19T18:16:00+01:00
 categories: ["hoteles"]
-tags: ["radisson", "status match"]
+tags: ["radisson", "status match", "club avolta"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
