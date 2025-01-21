@@ -7,7 +7,7 @@ languageCode = "de-DE"
 # post pagination
 pagination.pagerSize = "6"
 # post excerpt
-summaryLength = "20"
+summaryLength = "5"
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 
