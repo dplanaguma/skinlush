@@ -39,7 +39,7 @@ Consulta el listado completo actualizado en la [página oficial de SkyTeam](http
 ### ¿Qué significa esto para los viajeros?
 Con esta actualización, SkyTeam busca mejorar la experiencia del viajero, ofreciendo más comodidades antes del vuelo. Esto reduce la brecha con alianzas como Oneworld y Star Alliance, que ya ofrecían acceso en itinerarios domésticos. Sin embargo, todavía hay ciertas exclusiones, como Ho Chi Minh City, que podrían limitar la experiencia para algunos usuarios.
 
-{{< image src="images/post/20250123_02.webp" caption="Example Caption" alt="sky team lounge" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="SkyTeam amplía acceso a salas VIP en vuelos domésticos desde abril de 2025" webp="true" >}}
+{{< image src="images/post/20250123_02.webp" caption="Sky Team Lounge en Sydney" alt="sky team lounge" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="SkyTeam amplía acceso a salas VIP en vuelos domésticos desde abril de 2025" webp="true" >}}
 
 ### Conclusión
 Esta nueva política es un paso adelante para SkyTeam en su objetivo de ofrecer una experiencia más relajante y beneficiosa para sus clientes frecuentes. Será interesante ver si este cambio se amplía para incluir más salas VIP y si se extenderá a programas como Delta SkyMiles en el futuro.
