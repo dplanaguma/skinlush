@@ -107,3 +107,7 @@ Sin embargo, puede no ser la mejor opción para:
 - Quienes buscan maximizar el valor de los puntos en redenciones premium
 
 La clave está en utilizar Radisson Rewards como parte de una estrategia más amplia de programas de fidelización, aprovechando sus fortalezas específicas mientras se compensan sus limitaciones con otros programas complementarios.
+
+Recuerda que si no eres miembro de Radisson Rewards todavía, con mi [link de referido](https://www.radissonhotels.com/en-us/radisson-rewards/join?refererCode=6015998094028739). conseguirás 5000 puntos después de tu primera estancia.
+
+Remember that if you are not already a Radisson Rewards member, my refer-a-friend link here gets you 5,000 bonus points after your first stay.
