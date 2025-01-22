@@ -2,7 +2,7 @@
 title: "Cómo usar millas Emirates Skywards en Qantas, Japan Airlines y otros socios"
 description: " Aunque Emirates no pertenece a una alianza de aerolíneas, tiene una red interesante de socios."
 image: "images/post/20250122_01.webp"
-date: 2025-01-20T18:16:00+01:00
+date: 2025-01-22T18:16:00+01:00
 categories: ["aerolineas"]
 tags: ["emirates", "millas"]
 type: "regular" # available types: [featured/regular]
