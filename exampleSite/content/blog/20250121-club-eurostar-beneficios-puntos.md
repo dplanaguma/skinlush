@@ -3,8 +3,8 @@ title: "Cómo funciona Club Eurostar: beneficios, puntos y redenciones"
 description: "Descubre cómo funciona Club Eurostar, el programa de fidelidad de Eurostar, para acumular puntos, conseguir beneficios exclusivos y redimir billetes."
 image: "images/post/20250121_01.webp"
 date: 2025-01-21T18:16:00+01:00
-categories: ["aerolineas"]
-tags: ["emirates", "millas"]
+categories: ["otros"]
+tags: ["club eurostar", "analisis"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
