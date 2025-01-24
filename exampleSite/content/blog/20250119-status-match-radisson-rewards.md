@@ -1,5 +1,5 @@
 ---
-title: "Obtén el estatus VIP de Radisson Rewards GRATIS en 2025 desde tu estatus de aerolínea u hotel"
+title: "Obtén el estatus VIP de Radisson Rewards GRATIS desde tu estatus de aerolínea u hotel"
 description: "Ahora puedes conseguir estatus VIP en Radisson Rewards gratis por un año completo. Sigue leyendo para descubrir cómo hacerlo."
 image: "images/post/20250119_01.webp"
 date: 2025-01-19T18:16:00+01:00

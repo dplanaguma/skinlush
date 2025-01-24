@@ -1,6 +1,6 @@
 ---
-title: "Merece la pena Radisson Rewards? Análisis completo del programa de fidelización hotelero en 2025"
-description: "Descubre si Radisson Rewards es el programa de fidelización hotelero que necesitas. Analizamos beneficios, niveles elite y cómo sacar el máximo provecho en 2025."
+title: "Merece la pena Radisson Rewards? Análisis completo del programa de fidelización hotelero"
+description: "Descubre si Radisson Rewards es el programa de fidelización hotelero que necesitas. Analizamos beneficios, niveles elite y cómo sacar el máximo provecho."
 image: "images/post/20250112_01.webp"
 date: 2025-01-18T18:16:00+01:00
 categories: ["hoteles"]

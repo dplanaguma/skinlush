@@ -1,5 +1,5 @@
 ---
-title: "SkyTeam amplía acceso a salas VIP en vuelos domésticos desde abril de 2025"
+title: "SkyTeam amplía acceso a salas VIP en vuelos domésticos"
 description: "Descubre los cambios en las políticas de acceso a salas VIP de SkyTeam que beneficiarán a los clientes Elite Plus en vuelos domésticos. Más beneficios, menos restricciones."
 image: "images/post/20250123_01.webp"
 date: 2025-01-20T18:16:00+01:00

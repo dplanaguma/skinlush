@@ -3,8 +3,8 @@ title: "Cómo Aprovechar el Status Match de Flying Blue para Usuarios de British
 description: "Descubre cómo los miembros del Executive Club de British Airways pueden realizar un status match a Flying Blue con beneficios exclusivos y guía paso a paso."
 image: "images/post/20250123_03.webp"
 date: 2025-01-23T18:16:00+01:00
-categories: ["hoteles"]
-tags: ["radisson", "analisis"]
+categories: ["aerolineas"]
+tags: ["air france", "flying blue", "status match", "british airways"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
