@@ -1,7 +1,7 @@
 ---
 title: "Cómo Aprovechar el Status Match de Flying Blue para Usuarios de British Airways"
 description: "Descubre cómo los miembros del Executive Club de British Airways pueden realizar un status match a Flying Blue con beneficios exclusivos y guía paso a paso."
-image: "images/post/2025023_03.webp"
+image: "images/post/20250123_03.webp"
 date: 2025-01-23T18:16:00+01:00
 categories: ["hoteles"]
 tags: ["radisson", "analisis"]
@@ -14,7 +14,7 @@ Si eres miembro del programa Executive Club de British Airways, las recientes mo
 ### ¿Qué es el status match de Flying Blue?  
 Flying Blue permite a los usuarios de British Airways Executive Club transferir su estatus a Flying Blue por una tarifa fija de £99 (~117 €). Según tu nivel en el programa de BA, puedes obtener equivalencias en Flying Blue:  
 
-{{< image src="images/post/2025023_04.webp" caption="Status Match Flying Blue" alt="qantas emirates" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Descubre cómo los miembros del Executive Club de British Airways pueden realizar un status match a Flying Blue con beneficios exclusivos y guía paso a paso." webp="true" >}}
+{{< image src="images/post/20250123_04.webp" caption="Status Match Flying Blue" alt="qantas emirates" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Descubre cómo los miembros del Executive Club de British Airways pueden realizar un status match a Flying Blue con beneficios exclusivos y guía paso a paso." webp="true" >}}
 
 - **Silver en BA**: Equivale a Flying Blue Silver o Gold.  
 - **Gold en BA**: Puede equivaler a Flying Blue Silver, Gold o Platinum.  
