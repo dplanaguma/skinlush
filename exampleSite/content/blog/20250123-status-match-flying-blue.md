@@ -11,12 +11,6 @@ draft: false
 
 Si eres miembro del programa Executive Club de British Airways, las recientes modificaciones a su programa de lealtad podrían haberte dejado buscando alternativas. Afortunadamente, Flying Blue, el programa conjunto de Air France y KLM, ofrece una excelente oportunidad de status match para residentes del Reino Unido.  
 
-# Prueba
-## Prueba
-### Prueba
-##### Prueba 
-###### Prueba
-
 ### ¿Qué es el status match de Flying Blue?  
 Flying Blue permite a los usuarios de British Airways Executive Club transferir su estatus a Flying Blue por una tarifa fija de £99 (~117 €). Según tu nivel en el programa de BA, puedes obtener equivalencias en Flying Blue:  
 
