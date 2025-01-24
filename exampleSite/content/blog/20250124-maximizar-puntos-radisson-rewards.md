@@ -2,7 +2,7 @@
 title: "Cómo maximizar el valor de tus puntos Radisson Rewards"
 description: "Descubre estrategias clave para obtener hasta un 50% más de valor al usar tus puntos Radisson Rewards en reservas de hoteles."
 image: "images/post/20250124_01.webp"
-date: 2025-01-24T18:10:00+01:00
+date: 2025-01-24T09:00:00+01:00
 categories: ["hoteles"]
 tags: ["radisson", "analisis"]
 type: "featured" # available types: [featured/regular]
