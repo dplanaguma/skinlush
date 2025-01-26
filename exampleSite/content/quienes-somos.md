@@ -1,5 +1,5 @@
 ---
-title: "Acerca de Aterrizaje.com"
+title: "Acerca de SkinLush.com"
 description: "Aterrizaje.com es tu guía definitiva sobre programas de fidelización de viajeros, promociones de aerolíneas y noticias de viajes. Optimiza tus recompensas y beneficios con nosotros."
 image: "images/author.webp"
 layout: "about"
