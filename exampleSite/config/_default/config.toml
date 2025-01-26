@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://skinlush.net/"
-title = "SkinLush.com | Tu guía de programas de fidelización y viajes"
+title = "SkinLush.com | Tu guía de maquillaje y cosmetica"
 theme = "geeky-hugo"
 languageName = "De"
 languageCode = "de-DE"
