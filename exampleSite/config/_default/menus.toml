@@ -16,26 +16,17 @@ name = "Contacto"
 url = "contacto/"
 weight = 3
 
-[[main]]
+# footer menu
+[[footer]]
+
 name = "Categorias"
 url = "categories/"
 weight = 4
 
-[[main]]
+[[footer]]
 name = "Temas"
 url = "tags/"
 weight = 5
-
-# footer menu
-[[footer]]
-name = "Inicio"
-url = "/"
-weight = 1
-
-[[footer]]
-name = "Conocenos"
-url = "quienes-somos/"
-weight = 2
 
 [[footer]]
 name = "Contacto"
