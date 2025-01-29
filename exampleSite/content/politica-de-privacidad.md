@@ -1,12 +1,12 @@
 ---
 title: "Privacy Policy"
-description: "Lee la política de privacidad de Aterrizaje.com. Descubre cómo recopilamos, usamos y protegemos tu información personal mientras navegas en nuestro sitio web."
+description: "Lee la política de privacidad de skinlush.net Descubre cómo recopilamos, usamos y protegemos tu información personal mientras navegas en nuestro sitio web."
 draft: false
 
 ---
 
 ### Política de Privacidad
-En Aterrizaje.com, valoramos tu privacidad y nos comprometemos a proteger tus datos personales. Esta política de privacidad explica cómo recopilamos, usamos, almacenamos y protegemos la información que nos proporcionas al interactuar con nuestro sitio web. Al utilizar Aterrizaje.com, aceptas las prácticas descritas en esta política.
+En skincare.net, valoramos tu privacidad y nos comprometemos a proteger tus datos personales. Esta política de privacidad explica cómo recopilamos, usamos, almacenamos y protegemos la información que nos proporcionas al interactuar con nuestro sitio web. Al utilizar skincare.net, aceptas las prácticas descritas en esta política.
 
 #### Información que recopilamos
 Podemos recopilar y procesar la siguiente información sobre ti:
@@ -17,7 +17,7 @@ Podemos recopilar y procesar la siguiente información sobre ti:
 ### Cómo usamos tu información
 Utilizamos la información recopilada para los siguientes fines:
 * Mejorar nuestra plataforma: Para garantizar que nuestro contenido sea relevante y fácil de acceder.
-* Comunicación: Enviarte correos electrónicos sobre noticias, promociones y actualizaciones relacionadas con viajes, siempre que hayas dado tu consentimiento.
+* Comunicación: Enviarte correos electrónicos sobre noticias, promociones y actualizaciones relacionadas con rutinas y productos, siempre que hayas dado tu consentimiento.
 * Análisis de datos: Para entender cómo los usuarios interactúan con nuestro sitio y optimizar la experiencia.
 * Seguridad: Prevenir actividades fraudulentas y proteger la integridad de nuestra web.
 
@@ -34,7 +34,7 @@ Utilizamos cookies para personalizar tu experiencia, analizar el tráfico del si
  Puedes gestionar tus preferencias de cookies directamente desde tu navegador o a través de nuestro banner de configuración.
 
 ### Enlaces externos
-Nuestro sitio web puede contener enlaces a sitios de terceros, como aerolíneas, hoteles o servicios relacionados con viajes. Ten en cuenta que no somos responsables de las prácticas de privacidad de estas páginas. Recomendamos que revises sus políticas antes de proporcionar información personal.
+Nuestro sitio web puede contener enlaces a sitios de terceros, como links a comprar los productos. Ten en cuenta que no somos responsables de las prácticas de privacidad de estas páginas. Recomendamos que revises sus políticas antes de proporcionar información personal.
 
 
 ### Seguridad de tus datos
@@ -51,4 +51,4 @@ Para ejercer estos derechos, contáctanos a través del correo contacto@aterriza
 ### Cambios en nuestra política de privacidad
 Podemos actualizar esta política de privacidad para reflejar cambios en nuestras prácticas o requisitos legales. Publicaremos cualquier actualización en esta página, indicando la fecha de la última revisión.
 
-Fecha de última actualización: 20 de Enero de 2025
+Fecha de última actualización: 25 de Enero de 2025
