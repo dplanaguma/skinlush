@@ -13,7 +13,6 @@ education:
   - name: "Hola Soy Dúnia"
     content: "Tengo 38 años, trabajo en marketing, concretamente la automatización de comunicación por email. Entre mis hobbies se encuentran: viajar, maquillaje, moda, los mangas y los animes. Así que compagino todos estos con mi afición a publicar en RRSS y Blogs."
     
-
 # education
 education:
   enable: true
