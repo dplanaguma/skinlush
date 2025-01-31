@@ -7,12 +7,12 @@ logo = "images/logo.png"
 # Note: logo_width is not work with .svg file
 logo_width = "150x"
 # logo text will only show when logo is missing.
-logo_text = "Aterrizaje"
+logo_text = "skinlush"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Tu guía definitiva sobre programas de fidelización de viajeros, promociones de aerolíneas y noticias de viajes. Optimiza tus recompensas y beneficios con nosotros."
-author = "Aterrizaje.com"
+description = "Tu guía definitiva para mejorar juntos nuestra piel"
+author = "skinlush.net"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 # address = "9567 Turner Trace Apt. BC C3G8A4"
@@ -40,14 +40,14 @@ no_tags_found = "No se encontraron etiquetas"
 
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Descubre cómo optimizar tus puntos y millas."
+about_widget_content = "Descubrimos productos y rutinas junt@s"
 # footer content
-footer_content = "Tu guía definitiva para maximizar el valor de tus programas de fidelización y encontrar las mejores ofertas en viajes."
+footer_content = "Rutinas y reviews, como si te las contara tu amiga"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # copyright
 theme_copyright = true
-copyright = "Copyright © Aterrizaje.com"
+copyright = "Copyright © skinlush"
 
 # 404
 error_404_text = "Oops! Página no encontrada"
@@ -61,7 +61,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "Bienvenido a **Aterrizaje**"
+title_large = "Bienvenido a **skinlush**"
 title_small = ""
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
@@ -105,9 +105,14 @@ mailchimp_form_name = "5cb18b11495f" # replace this code with yours
 [[social]]
 title = "rss"
 icon = "fa-solid fa-rss" # themify icon : https://themify.me/themify-icons
-link = "https://aterrizaje.com/index.xml"
+link = "https://skinlush.net/index.xml"
 
 [[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
+title = "tiktok"
+icon = "fab fa-tiktok" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"

@@ -17,9 +17,9 @@ email_title: "Correo Electrónico"
 email_placeholder: "ejemplo@email.com"
 
 subject_title: "Asunto"
-subject_placeholder: "Consulta sobre promociones de aerolíneas"
+subject_placeholder: "¿Con qué producto puedo regular los granitos?"
 
 content_title: "Tu mensaje aquí"
-content_placeholder: "Hola, soy Dúnia, me gustaría saber que rutina me iría mejor para...."
+content_placeholder: "Hola, soy Inma, me gustaría saber que rutina me iría mejor para...."
 
 ---
