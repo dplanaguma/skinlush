@@ -8,7 +8,7 @@
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-color_primary = "#8c03033"
+color_primary = "#8c0303"
 body_color = "#FFF"
 text_color = "#555"
 text_dark = "#222"
