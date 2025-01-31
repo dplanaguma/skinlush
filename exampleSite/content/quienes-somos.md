@@ -1,7 +1,7 @@
 ---
 title: "Acerca de SkinLush.com"
 description: "Skinlush.net es tu sitio si quieres leer reviews y rutinas que saquen el mejor partido a tu piel. "
-image: "images/author.webp"
+image: "images/author.svg"
 layout: "about"
 draft: false
 
