@@ -91,7 +91,7 @@ sidebar = ["recent-post", "newsletter"]
 [subscription]
 enable = true
 newsletter_title = "Newsletter"
-newsletter_invitation = "¡Únete a nuestra comunidad de viajeros expertos y recibe las mejores ofertas y consejos cada semana!"
+newsletter_invitation = "¡Únete si quieres conocer nuevos productos y rutinas para tu piel!"
 newsletter_placeholder = "Escribe tu email"
 newsletter_reminder_a = "Al suscribirte, aceptas nuestra"
 newsletter_reminder_b = "Política de Privacidad"
@@ -110,9 +110,9 @@ link = "https://skinlush.net/index.xml"
 [[social]]
 title = "tiktok"
 icon = "fab fa-tiktok" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.tiktok.com/@dunia.skincareworld"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/dunia.skinlush/"
