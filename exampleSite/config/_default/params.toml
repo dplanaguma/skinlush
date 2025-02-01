@@ -104,7 +104,7 @@ mailchimp_form_name = "5cb18b11495f" # replace this code with yours
 ############################# social site ########################
 [[social]]
 title = "pinterest"
-"fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://pin.it/1ld3CgYSJ"
 
 [[social]]
