@@ -5,7 +5,7 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "150x"
+logo_width = "250x"
 # logo text will only show when logo is missing.
 logo_text = "skinlush"
 # navbar fixed to top
@@ -17,7 +17,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # contact info
 # address = "9567 Turner Trace Apt. BC C3G8A4"
 # mobile = "+211234565523"
-# email = "contacto@aterrizaje.com"
+# email = "dunia@skinlush.net"
 # contact form action
 contact_form_action = "https://formspree.io/f/mpwwgkra" # contact form works with https://formspree.io
 # search
