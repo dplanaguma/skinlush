@@ -103,8 +103,8 @@ mailchimp_form_name = "5cb18b11495f" # replace this code with yours
 
 ############################# social site ########################
 [[social]]
-title = "rss"
-icon = "fa-solid fa-rss" # themify icon : https://themify.me/themify-icons
+title = "pinterest"
+icon = "fa-solid fa-pinterest" # themify icon : https://themify.me/themify-icons
 link = "https://skinlush.net/index.xml"
 
 [[social]]
