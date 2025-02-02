@@ -21,7 +21,7 @@ Aquí tienes el código actualizado con el texto "Compra este producto" dentro d
   <button class="custom-button">Compra este producto</button>
 </a>
 
-<style>
+<div><style>
   .custom-button {
     background-color: #8c0303; /* Color del botón */
     color: white; /* Color de la fuente */
@@ -39,10 +39,7 @@ Aquí tienes el código actualizado con el texto "Compra este producto" dentro d
     background-color: #a30f0f; /* Color cuando el botón está en hover */
   }
 </style>
-
-```
-
-Ahora, el botón tiene el texto "Compra este producto" y sigue manteniendo el estilo y las interacciones que describimos antes.
+</div>
 
 ### 1. Beneficios:
 
