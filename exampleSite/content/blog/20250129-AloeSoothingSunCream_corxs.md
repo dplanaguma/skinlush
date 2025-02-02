@@ -1,10 +1,10 @@
 ---
-title: "Analicemos Galacto Niacin 97 Power Essence de Purito."
-description: "Descubre que puede hacer este producto por ti"
-image: "images/post/galacto.jpg"
+title: "Probablemente la crema solar favorita de las pieles sensibles "
+description: "Y es que con el Aloe Vera calmamos pieles y evitamos rojeces."
+image: "images/post/aloesunscreen1.jpg"
 date: 2025-01-19T18:16:00+01:00
 categories: ["Reviews"]
-tags: ["Kbeauty", "Purito"]
+tags: ["Kbeauty", "Corxs" "Crema Solar"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
@@ -13,45 +13,44 @@ Dentro de todos los productos de Purito poco se habla - y de esta marca se habla
 
 ### 1. Beneficios:
 
-- **Hidratante:** Aporta una hidratación profunda sin obstruir los poros.
-- **Iluminadora:** La niacinamida ayuda a combatir la opacidad y mejorar el brillo natural de la piel.
-- **Calmante:** Gracias al pantenol y la centella asiática, reduce la inflamación y el enrojecimiento.
-- **Antiedad:** La adenosina mejora la firmeza y suaviza las líneas de expresión.
+- **Protección solar:** Alta protección contra los rayos UVA y UVB con SPF50+ PA+++.
+- **Hidratante:** Proporciona hidratación duradera gracias al aloe vera.
+- **Calmante:** Alivia la piel irritada y sensible.
+- **Antioxidante:** La vitamina E protege contra el daño de los radicales libres.
+
 
 ### 2. Ingredientes:
 
-Purito Galacto Niacin 97 Power Essence es un tratamiento multifuncional que combina ingredientes fermentados y activos iluminadores para mejorar el tono, la textura y la hidratación de la piel.
+COSRX Aloe Soothing Sun Cream SPF50+ PA+++ es un protector solar hidratante que combina la protección efectiva de filtros químicos con el poder calmante del aloe vera.
 
-- **Galactomyces Ferment Filtrate (92%):** Ingrediente fermentado que hidrata, mejora la elasticidad de la piel y refina su textura, minimizando la apariencia de poros.
-- **Niacinamida (5%):** Ilumina la piel, combate la hiperpigmentación y refuerza la barrera cutánea, ayudando a equilibrar la producción de sebo.
-- **Adenosina:** Potente ingrediente antiedad que mejora la firmeza de la piel y reduce la aparición de arrugas.
-- **Pantenol (Provitamina B5):** Calmante e hidratante que refuerza la barrera de la piel.
-- **Extracto de Centella Asiática:** Calma y repara la piel, ayudando a reducir la inflamación.
+- **Aloe Vera (Aloe Barbadensis Leaf Extract, 5,500 ppm):** Hidrata profundamente y alivia la piel irritada, proporcionando una sensación refrescante.
+- **Filtros químicos (Ethylhexyl Methoxycinnamate, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine):** Ofrecen una protección eficaz contra los rayos UVA y UVB.
+- **Tocoferol (Vitamina E):** Antioxidante que combate el envejecimiento prematuro de la piel causado por la exposición solar.
 
-La formulación está libre de fragancias, parabenos y alcoholes irritantes, lo que la hace segura para pieles sensibles.
+La fórmula está libre de parabenos y no contiene fragancias sintéticas, lo que la hace apta para pieles sensibles.
 
-{{< image src="images/post/galacto2.jpg" caption="Galacto Niacin 97 Power EssenceGalacto essence purito" alt="purito seoul" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Review" webp="true" >}}
+{{< image src="images/post/aloesunscreen2.webp" caption=" Textura COSRX Aloe Soothing Sun Cream SPF50+ PA+++" alt="Corxs" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Review" webp="true" >}}
 
 ### 3.Envase:
 
-El producto viene en un frasco transparente con bomba dispensadora, lo que facilita una aplicación higiénica y precisa. Su diseño es minimalista y funcional.
+El producto viene en un tubo blanco con detalles verdes y tapa de rosca, compacto y fácil de llevar. El diseño minimalista es característico de la marca COSRX.
 
 ### 4. Textura:
 
-La textura es acuosa y ligera, de rápida absorción. No deja residuos pegajosos y se integra perfectamente en cualquier rutina de cuidado de la piel.
+La textura es cremosa pero ligera, fácil de aplicar y de rápida absorción. Deja un acabado suave y ligeramente luminoso sin residuos grasos ni efecto blanquecino.
 
 
 ### 5. ¿A qué tipo de piel se recomienda?: 
 
-- **Todo tipo de pieles**, especialmente sensibles: Gracias a su formulación suave y calmante.
-- **Pieles con tono apagado o manchas:** La niacinamida ayuda a unificar el tono.
-- **Pieles con textura irregular:** El filtrado de galactomyces mejora la suavidad y minimiza poros.
-- **Pieles propensas a deshidratación:** Su alta capacidad hidratante lo convierte en un aliado para pieles deshidratadas.
+- **Todo tipo de pieles:** Pero si necesitas una hidratación adicional seguro que es tu crema solar.
+- **Pieles sensibles:** Gracias a su contenido de aloe vera y ausencia de fragancias.
+- **Pieles propensas al enrojecimiento:** Su acción calmante ayuda a reducir la sensibilidad.
+
 
 ### 6. Opinión Personal: 
 
-Purito Galacto Niacin 97 Power Essence es una excelente elección para quienes buscan un producto versátil que ilumine, hidrate y mejore la textura de la piel. Su alta concentración de galactomyces y niacinamida lo convierte en un aliado poderoso para combatir el tono apagado y la textura desigual.
+COSRX Aloe Soothing Sun Cream SPF50+ PA+++ es una excelente opción para quienes buscan un protector solar hidratante, calmante y suave para la piel. Su fórmula rica en aloe vera y su acabado ligero la convierten en una opción versátil para el uso diario.
 
-El envase funcional y su fórmula suave lo hacen ideal para el uso diario tanto de día como de noche. Si buscas una esencia efectiva sin un coste elevado de otras marcas, Purito Galacto Niacin 97 Power Essence es una opción muy top para estar en tu estantería.
+El envase práctico y su textura cremosa pero de fácil absorción la hacen ideal tanto para climas secos como húmedos. Si buscas una protección solar efectiva con beneficios calmantes, COSRX Aloe Soothing Sun Cream es una apuesta segura.
 
 
