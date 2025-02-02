@@ -1,7 +1,7 @@
 ---
 title: "Probablemente la crema solar favorita de las pieles sensibles "
 description: "Y es que con el Aloe Vera calmamos pieles y evitamos rojeces."
-image: "images/post/aloesunscreen1.jpg"
+image: "images/post/aloesunscream1.webp"
 date: 2025-01-19T18:16:00+01:00
 categories: ["Reviews"]
 tags: ["Kbeauty", "Corxs", "Crema Solar"]
@@ -52,7 +52,7 @@ COSRX Aloe Soothing Sun Cream SPF50+ PA+++ es un protector solar hidratante que 
 
 La fórmula está libre de parabenos y no contiene fragancias sintéticas, lo que la hace apta para pieles sensibles.
 
-{{< image src="images/post/aloesunscreen2.webp" caption=" Textura COSRX Aloe Soothing Sun Cream SPF50+ PA+++" alt="Corxs" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Review" webp="true" >}}
+{{< image src="images/post/aloesunscream2.webp" caption=" Textura COSRX Aloe Soothing Sun Cream SPF50+ PA+++" alt="Corxs" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Review" webp="true" >}}
 
 ### 3.Envase:
 
