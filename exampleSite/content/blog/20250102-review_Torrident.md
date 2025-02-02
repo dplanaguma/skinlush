@@ -29,7 +29,7 @@ La verdadera fortaleza de Radisson se hace evidente cuando miramos su presencia 
 
 La fórmula está libre de fragancias y colorantes artificiales, lo que la convierte en una opción segura para pieles sensibles.
 
-{{< image src="images/post/20250112_01.webp" caption="Hotel Radisson en Europa" alt="radisson rewards" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Merece la pena Radisson Rewards?" webp="true" >}}
+{{< image src="images/post/torrident1.webp" caption="Textura Torrident In Dive Smoothing Cream" alt="radisson rewards" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Smoothing cream" webp="true" >}}
 
 ### 2. Propiedades
 
