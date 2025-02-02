@@ -4,7 +4,7 @@ description: "No todos los productos sirven, tenemos que tener en cuenta necesid
 image: "images/post/Torrident2.webp"
 date: 2025-01-02T18:16:00+01:00
 categories: ["reviews"]
-tags: ["kbeauty", "torriden"]
+tags: ["kbeauty", "torrident"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
@@ -51,7 +51,7 @@ El producto viene en un tubo flexible con tapa de rosca, lo cual es más higién
 
 La textura es una crema tipo gel ligera y fresca que se absorbe rápidamente sin dejar sensación pesada o pegajosa. Al aplicarla, deja un efecto suave y sedoso que calma de inmediato la piel.
 
-{{< image src="images/post/torrident1.webp" caption="textura torriden" alt="radisson rewards" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="¿para quién es esta crema de torriden?" webp="true" >}}
+{{< image src="images/post/torrident1.webp" caption="textura torrident" alt="radisson rewards" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="¿para quién es esta crema de torrident?" webp="true" >}}
 
 ### 6. Opinión final
 
