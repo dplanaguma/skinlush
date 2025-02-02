@@ -4,7 +4,7 @@ description: "Y es que con el Aloe Vera calmamos pieles y evitamos rojeces."
 image: "images/post/aloesunscreen1.jpg"
 date: 2025-01-19T18:16:00+01:00
 categories: ["Reviews"]
-tags: ["Kbeauty", "Corxs" "Crema Solar"]
+tags: ["Kbeauty", "Corxs", "Crema Solar"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
