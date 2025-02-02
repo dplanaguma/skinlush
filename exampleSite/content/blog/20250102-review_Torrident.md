@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tipo de piel se beneficia de la crema hidratante Torriden Dive-In Soothing?"
 description: "No todos los productos sirven, tenemos que tener en cuenta necesidades, tipo de piel y que queremos mejorar. "
-image: "images/post/torrident2.webp"
+image: "images/post/Torrident2.webp"
 date: 2025-01-02T18:16:00+01:00
 categories: ["reviews"]
 tags: ["kbeauty", "torrident"]
@@ -28,8 +28,6 @@ La verdadera fortaleza de Radisson se hace evidente cuando miramos su presencia 
 
 
 La fórmula está libre de fragancias y colorantes artificiales, lo que la convierte en una opción segura para pieles sensibles.
-
-{{< image src="images/post/torrident1.webp" caption="Textura Torrident In Dive Smoothing Cream" alt="radisson rewards" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Smoothing cream" webp="true" >}}
 
 ### 2. Propiedades
 
