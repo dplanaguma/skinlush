@@ -90,3 +90,27 @@ El envase funcional y su textura liviana lo hacen ideal para el uso diario tanto
 
 
 
+<a href="https://amzn.to/40F9DbF" target="_blank">
+  <button class="custom-button">Compra este producto</button>
+</a>
+
+<div><style>
+  .custom-button {
+    background-color: #8c0303; /* Color del botón */
+    color: white; /* Color de la fuente */
+    font-family: Arial, sans-serif; /* Fuente */
+    font-size: 16px; /* Tamaño de la fuente */
+    padding: 10px 20px; /* Espaciado interior */
+    border: none; /* Sin borde */
+    border-radius: 20px; /* Bordes redondeados */
+    cursor: pointer; /* Aparece como un cursor de mano */
+    transition: background-color 0.3s; /* Transición suave para el cambio de color */
+    text-decoration: none; /* Eliminar subrayado */
+    align:
+  }
+
+  .custom-button:hover {
+    background-color: #a30f0f; /* Color cuando el botón está en hover */
+  }
+</style>
+</div>

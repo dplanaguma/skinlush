@@ -11,6 +11,29 @@ draft: false
 
 Dentro de todos los productos de Purito poco se habla - y de esta marca se habla muchísimo - acerca de Galacto Niacin 97 Power Essence. Así que hoy quiero hablar de este producto y ver que puede hacer él por vosotr@s. 
 
+<a href="https://amzn.to/40XnFa9" target="_blank">
+  <button class="custom-button">Compra este producto</button>
+</a>
+<div><style>
+  .custom-button {
+    background-color: #8c0303; /* Color del botón */
+    color: white; /* Color de la fuente */
+    font-family: Arial, sans-serif; /* Fuente */
+    font-size: 16px; /* Tamaño de la fuente */
+    padding: 10px 20px; /* Espaciado interior */
+    border: none; /* Sin borde */
+    border-radius: 20px; /* Bordes redondeados */
+    cursor: pointer; /* Aparece como un cursor de mano */
+    transition: background-color 0.3s; /* Transición suave para el cambio de color */
+    text-decoration: none; /* Eliminar subrayado */
+  }
+
+  .custom-button:hover {
+    background-color: #a30f0f; /* Color cuando el botón está en hover */
+  }
+</style>
+</div>
+
 ### 1. Beneficios:
 
 - **Protección solar:** Alta protección contra los rayos UVA y UVB con SPF50+ PA+++.
@@ -54,3 +77,25 @@ COSRX Aloe Soothing Sun Cream SPF50+ PA+++ es una excelente opción para quienes
 El envase práctico y su textura cremosa pero de fácil absorción la hacen ideal tanto para climas secos como húmedos. Si buscas una protección solar efectiva con beneficios calmantes, COSRX Aloe Soothing Sun Cream es una apuesta segura.
 
 
+<a href="https://amzn.to/40XnFa9" target="_blank">
+  <button class="custom-button">Compra este producto</button>
+</a>
+<div><style>
+  .custom-button {
+    background-color: #8c0303; /* Color del botón */
+    color: white; /* Color de la fuente */
+    font-family: Arial, sans-serif; /* Fuente */
+    font-size: 16px; /* Tamaño de la fuente */
+    padding: 10px 20px; /* Espaciado interior */
+    border: none; /* Sin borde */
+    border-radius: 20px; /* Bordes redondeados */
+    cursor: pointer; /* Aparece como un cursor de mano */
+    transition: background-color 0.3s; /* Transición suave para el cambio de color */
+    text-decoration: none; /* Eliminar subrayado */
+  }
+
+  .custom-button:hover {
+    background-color: #a30f0f; /* Color cuando el botón está en hover */
+  }
+</style>
+</div>

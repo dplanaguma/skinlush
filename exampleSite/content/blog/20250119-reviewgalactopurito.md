@@ -11,6 +11,30 @@ draft: false
 
 Dentro de todos los productos de Purito poco se habla - y de esta marca se habla muchísimo - acerca de Galacto Niacin 97 Power Essence. Así que hoy quiero hablar de este producto y ver que puede hacer él por vosotr@s. 
 
+<a href="https://amzn.to/40JsHFE" target="_blank">
+  <button class="custom-button">Compra este producto</button>
+</a>
+
+<div><style>
+  .custom-button {
+    background-color: #8c0303; /* Color del botón */
+    color: white; /* Color de la fuente */
+    font-family: Arial, sans-serif; /* Fuente */
+    font-size: 16px; /* Tamaño de la fuente */
+    padding: 10px 20px; /* Espaciado interior */
+    border: none; /* Sin borde */
+    border-radius: 20px; /* Bordes redondeados */
+    cursor: pointer; /* Aparece como un cursor de mano */
+    transition: background-color 0.3s; /* Transición suave para el cambio de color */
+    text-decoration: none; /* Eliminar subrayado */
+  }
+
+  .custom-button:hover {
+    background-color: #a30f0f; /* Color cuando el botón está en hover */
+  }
+</style>
+</div>
+
 ### 1. Beneficios:
 
 - **Hidratante:** Aporta una hidratación profunda sin obstruir los poros.
@@ -54,6 +78,28 @@ Purito Galacto Niacin 97 Power Essence es una excelente elección para quienes b
 
 El envase funcional y su fórmula suave lo hacen ideal para el uso diario tanto de día como de noche. Si buscas una esencia efectiva sin un coste elevado de otras marcas, Purito Galacto Niacin 97 Power Essence es una opción muy top para estar en tu estantería.
 
+<a href="https://amzn.to/40JsHFE" target="_blank">
+  <button class="custom-button">Compra este producto</button>
+</a>
 
+<div><style>
+  .custom-button {
+    background-color: #8c0303; /* Color del botón */
+    color: white; /* Color de la fuente */
+    font-family: Arial, sans-serif; /* Fuente */
+    font-size: 16px; /* Tamaño de la fuente */
+    padding: 10px 20px; /* Espaciado interior */
+    border: none; /* Sin borde */
+    border-radius: 20px; /* Bordes redondeados */
+    cursor: pointer; /* Aparece como un cursor de mano */
+    transition: background-color 0.3s; /* Transición suave para el cambio de color */
+    text-decoration: none; /* Eliminar subrayado */
+  }
+
+  .custom-button:hover {
+    background-color: #a30f0f; /* Color cuando el botón está en hover */
+  }
+</style>
+</div>
 
 
