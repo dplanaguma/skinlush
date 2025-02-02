@@ -1,7 +1,7 @@
 ---
 title: "¿Un contorno de ojos hidratante de centella?"
 description: "Vamos a ver si el contorno Wonder Releaf Centella Eye Cream Unscented hace lo que promete "
-image: "images/post/puritoeyecream1.jpg"
+image: "images/post/puritoeyecream1.webp"
 date: 2025-01-19T18:16:00+01:00
 categories: ["Reviews"]
 tags: ["Kbeauty", "Purito", "contorno"]
