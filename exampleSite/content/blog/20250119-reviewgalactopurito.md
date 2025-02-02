@@ -1,7 +1,7 @@
 ---
 title: "Analicemos Galacto Niacin 97 Power Essence de Purito."
 description: "Descubre que puede hacer este producto por ti"
-image: "images/post/galacto.jpg"
+image: "images/post/galacto1.webp"
 date: 2025-01-19T18:16:00+01:00
 categories: ["Reviews"]
 tags: ["Kbeauty", "Purito"]
@@ -54,7 +54,7 @@ Purito Galacto Niacin 97 Power Essence es un tratamiento multifuncional que comb
 
 La formulación está libre de fragancias, parabenos y alcoholes irritantes, lo que la hace segura para pieles sensibles.
 
-{{< image src="images/post/galacto2.jpg" caption="Galacto Niacin 97 Power EssenceGalacto essence purito" alt="purito seoul" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Review" webp="true" >}}
+{{< image src="images/post/galacto2.webp" caption="Galacto Niacin 97 Power EssenceGalacto essence purito" alt="purito seoul" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Review" webp="true" >}}
 
 ### 3.Envase:
 
