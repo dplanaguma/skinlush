@@ -4,7 +4,7 @@ description: "No todos los productos sirven, tenemos que tener en cuenta necesid
 image: "images/post/torrident2.webp"
 date: 2025-01-02T18:16:00+01:00
 categories: ["reviews"]
-tags: ["kbeauty", "torrient"]
+tags: ["kbeauty", "torrident"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
