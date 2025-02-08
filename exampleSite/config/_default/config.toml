@@ -14,9 +14,6 @@ googleAnalytics = "" # example: UA-123-45, for more info, read the article https
 # disable language
 disableLanguages = []
 
-[services.disqus]
-shortname = 'aterrizaje' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
-
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
