@@ -56,7 +56,7 @@ error_404_button = "Volver al Inicio"
 # Preloader
 [preloader]
 enable = false
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "" # use jpg, png, svg, webp or gif format.
 
 # Banner
 [banner]
