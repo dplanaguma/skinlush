@@ -105,7 +105,7 @@ mailchimp_form_name = "5cb18b11495f" # replace this code with yours
 [[social]]
 title = "pinterest"
 icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.tiktok.com/@dunia.skincareworld" target="_blank"
+link = <a target="_blank" href="https://pin.it/6s7lmSewu"</a>
 
 [[social]]
 title = "tiktok"
