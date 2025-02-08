@@ -56,14 +56,14 @@ error_404_button = "Volver al Inicio"
 # Preloader
 [preloader]
 enable = false
-preloader = "" # use jpg, png, svg, webp or gif format.
+preloader = "" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]
 enable = true
 title_large = "Bienvenido a **skinlush**"
 title_small = ""
-image = "images/banner.webp"
+image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "El skincare no debe ser tan dificil. Descubre rutinas y productos para ti."
 button_label = "Conocenos"
