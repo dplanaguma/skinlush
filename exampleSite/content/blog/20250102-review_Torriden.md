@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tipo de piel se beneficia de la crema hidratante Torriden Dive-In Soothing?"
 description: "No todos los productos sirven, tenemos que tener en cuenta necesidades, tipo de piel y que queremos mejorar. "
-image: "images/post/Torrident2.webp"
+image: "images/post/torrident2.webp"
 date: 2025-01-02T18:16:00+01:00
 categories: ["reviews"]
 tags: ["kbeauty", "torrident"]
