@@ -1,16 +1,24 @@
 ---
 title: "Acerca de SkinLush.net"
 description: "Skinlush.net es tu sitio si quieres leer reviews y rutinas que saquen el mejor partido a tu piel. "
-image: "images/author.png"
+image: "images/author.webp"
 layout: "about"
 draft: false
 
 # education
 education:
   enable: true
-  title: "¿Quién soy"
+  title: "Hola, Soy Dúnia"
   education_list:
-  - name: "Hola Soy Dúnia"
+  - name: "Bievenid@"
+    image: "images/dunia.webp"
+
+# education
+education:
+  enable: true
+  title: "¿Quién soy?"
+  education_list:
+  - name: "¡Conoceme!"
     content: "Tengo 38 años, trabajo en marketing, concretamente la automatización de comunicación por email. Entre mis hobbies se encuentran: viajar, maquillaje, moda, los mangas y los animes. Así que compagino todos estos con mi afición a publicar en RRSS y Blogs."
 
 # experience
