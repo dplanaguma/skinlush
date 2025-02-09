@@ -6,20 +6,18 @@ layout: "about"
 draft: false
 
 # foto
-education:
+foto:
   enable: true
   title: "Hola, Soy Dúnia"
-  education_list:
-  - name: "Bievenid@"
-    content: "images/dunia.webp"
+  name: "Bievenid@"
+  content: "images/dunia.webp"
 
 # education
 education:
   enable: true
   title: "¿Quién soy?"
-  education_list:
-  - name: "¡Conoceme!"
-    content: "Tengo 38 años, trabajo en marketing, concretamente la automatización de comunicación por email. Entre mis hobbies se encuentran: viajar, maquillaje, moda, los mangas y los animes. Así que compagino todos estos con mi afición a publicar en RRSS y Blogs."
+  name: "¡Conoceme!"
+  content: "Tengo 38 años, trabajo en marketing, concretamente la automatización de comunicación por email. Entre mis hobbies se encuentran: viajar, maquillaje, moda, los mangas y los animes. Así que compagino todos estos con mi afición a publicar en RRSS y Blogs."
 
 # experience
 experience:
