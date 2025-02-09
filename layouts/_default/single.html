@@ -12,9 +12,9 @@
       <div class="col-lg-10">
         <!-- image path -->
         {{ $imagePath:= .Params.image }} {{ if $imagePath }}
-        <div class="position-relative">
+        <div class="position-center">
           {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class"
-          "img-fluid mb-5 w-100% rounded-4" ) }}
+          "img-fluid mb-5 w-100 rounded-4" ) }}
           <ul class="list-inline card-badge">
             {{ range .Params.categories }}
             <li class="list-inline-item">
