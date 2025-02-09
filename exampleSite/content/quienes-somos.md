@@ -5,28 +5,22 @@ image: "images/author.webp"
 layout: "about"
 draft: false
 
-# foto
-foto:
-  enable: true
-  title: "Hola, Soy Dúnia"
-  name: "Bievenid@"
-  content: "images/dunia.webp"
-
 # education
 education:
   enable: true
   title: "¿Quién soy?"
-  name: "¡Conoceme!"
-  content: "Tengo 38 años, trabajo en marketing, concretamente la automatización de comunicación por email. Entre mis hobbies se encuentran: viajar, maquillaje, moda, los mangas y los animes. Así que compagino todos estos con mi afición a publicar en RRSS y Blogs."
+  education_list:
+  - "Tengo 38 años, trabajo en marketing, concretamente la automatización de comunicación por email."
+  - "Entre mis hobbies se encuentran: viajar, maquillaje, moda, los mangas y los animes. Así que compagino todos estos con mi afición a publicar en RRSS y Blogs."
 
 # experience
 experience:
   enable: true
-  title: "Porque el skincare?"
+  title: ¿"Por qué el skincare?"
   experience_list:
-  - "He sufrido de acné y dermatitis perioral"
-  - "Me ha hecho sentir mal conmigo misma"
-  - "Me gustaría ayudar a alguien que esté en la misma situación"
+  - "He sufrido de acné y dermatitis perioral."
+  - "Me ha hecho sentir mal conmigo misma."
+  - "Me gustaría ayudar a alguien que esté en la misma situación."
   
 ---
 
