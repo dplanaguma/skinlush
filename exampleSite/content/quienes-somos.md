@@ -5,13 +5,13 @@ image: "images/author.webp"
 layout: "about"
 draft: false
 
-# education
+# foto
 education:
   enable: true
   title: "Hola, Soy Dúnia"
   education_list:
   - name: "Bievenid@"
-    image: "images/dunia.webp"
+    content: "images/dunia.webp"
 
 # education
 education:
