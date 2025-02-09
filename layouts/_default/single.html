@@ -14,7 +14,7 @@
         {{ $imagePath:= .Params.image }} {{ if $imagePath }}
         <div class="position-relative">
           {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class"
-          "img-fluid mb-5 w-100 rounded-4" ) }}
+          "img-fluid mb-5 w-100% rounded-4" ) }}
           <ul class="list-inline card-badge">
             {{ range .Params.categories }}
             <li class="list-inline-item">
@@ -54,30 +54,6 @@
     {{ end }}
     </div>
       
-    </div>
-  </div>
-</section>
-<!--=================== section end ===================-->
-
-<!--=================== section start ===================-->
-<section class="section-sm pt-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="section-title">
-          <h2 class="h4 title-border">{{ site.Params.related_posts }}</h2>
-        </div>
-      </div>
-    </div>
-
-    <!-- related post -->
-    <div class="row">
-      {{ $related := (where site.RegularPages "Section" "in"
-      site.Params.mainSections) | intersect (where site.RegularPages ".Title"
-      "!=" .Title) | union (site.RegularPages.Related . ) }} {{ range first 3
-      $related }}
-      <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">{{ .Render "post" }}</div>
-      {{ end }}
     </div>
   </div>
 </section>
