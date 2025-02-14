@@ -2,7 +2,7 @@
 title: "Enamorada de este retinol - Clinical Vitamin A de Niche BEauty"
 description: "Tiene todo lo que debe tener en su magnifica medida."
 image: "images/post/clinical2.webp"
-date: 2025-02-14T18:16:00+01:00
+date: 2025-02-13T18:16:00+01:00
 categories: ["reviews"]
 tags: ["Retinol", "Niche Beauty"]
 type: "featured" # available types: [featured/regular]
