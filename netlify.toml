@@ -1,6 +1,6 @@
 [build]
-  publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic"
+  publish = "public"
+  command = "hugo --gc --minify --templateMetrics --templateMetricsHints --source exampleSite --themesDir ../.."
 
 [context.production.environment]
-  HUGO_VERSION = "0.125.6"  # or another stable version supported by Netlify
+  HUGO_VERSION = "0.125.6"
