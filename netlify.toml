@@ -3,4 +3,4 @@
   command = "cd exampleSite && hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic"
 
 [context.production.environment]
-  HUGO_VERSION = "1.0.1"  # Use the latest supported version or one that matches your project
+  HUGO_VERSION = "0.125.6"  # or another stable version supported by Netlify
