@@ -4,9 +4,12 @@
   "license": "MIT",
   "author": "statichunt",
   "scripts": {
-    "dev": "cd exampleSite; hugo server || hugo server --themesDir ../..",
-    "test": "cd exampleSite; hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
-    "build": "cd exampleSite && hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
-    "update": "hugo mod clean && hugo mod get -u ./... && hugo mod tidy"
+    "dev": "cd exampleSite && npx hugo server --themesDir ../..",
+    "test": "cd exampleSite && npx hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
+    "build": "cd exampleSite && npx hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "update": "npx hugo mod clean && npx hugo mod get -u ./... && npx hugo mod tidy"
+  },
+  "devDependencies": {
+    "hugo-extended": "^0.125.6"
   }
 }
