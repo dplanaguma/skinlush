@@ -1,17 +1,6 @@
 [build]
   publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --minify --gc --themesDir ../.."
-  
-[build.environment]
-  HUGO_VERSION = "1.0.1"
-  HUGO_THEME = "repo"
-  HUGO_BASEURL = "/"
+  command = "cd exampleSite && hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic"
 
-[[headers]]
-  for = "/*" # This defines which paths this specific [[headers]] block will cover.
-
-[headers.values]
-  X-Frame-Options = "DENY"
-  X-XSS-Protection = "1; mode=block"
-  Referrer-Policy = "same-origin"
-  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+[context.production.environment]
+  HUGO_VERSION = "1.0.1"  # Use the latest supported version or one that matches your project
